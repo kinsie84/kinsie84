@@ -1,5 +1,7 @@
 ### Hi there 👋 I'm [Peter](https://www.linkedin.com/in/peterkinsella/)!
 
+- 📫 Get in [touch](mailto:kinsie@gmail.com?subject=[Opportunity]) if you think you have a role that matches my skill set
+
 <!--
 **kinsie84/kinsie84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
