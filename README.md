@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm [Peter](https://www.linkedin.com/in/peterkinsella/)!
 
-- 📫 Get in [touch](mailto:kinsie@gmail.com?subject=[Opportunity]) if you think you have a role that matches my skill set
+- 📫 Get in [touch](mailto:kinsie@gmail.com?subject=Opportunity) if you think you have a role that matches my skill set
 
 <!--
 
